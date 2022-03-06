@@ -6,7 +6,7 @@ public class firstProject {
 		//added a more comments
 	System.out.println("It's working...");
     System.out.println("It's working fine");
-    System.out.println("something");
+    
 
 
 }
